@@ -118,10 +118,6 @@ face-recognition-attendance/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-For support or questions, please open an issue on GitHub.
-
 ## 🙏 Acknowledgments
 
 - OpenCV community for computer vision tools
@@ -130,4 +126,4 @@ For support or questions, please open an issue on GitHub.
 
 ---
 
-**Note**: This system is designed for educational and small-scale attendance tracking. For production use, consider additional security measures and scalability improvements.
+
