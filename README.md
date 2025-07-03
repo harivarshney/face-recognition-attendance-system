@@ -1,3 +1,5 @@
+![face-recognition-attendance-system](https://socialify.git.ci/harivarshney/face-recognition-attendance-system/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Brick+Wall&stargazers=1&theme=Dark)
+
 # 🎥 Face Recognition Attendance System
 
 A modern Python-based face recognition attendance system using **OpenCV** and **Tkinter GUI**.
